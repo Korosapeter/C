@@ -1,0 +1,16 @@
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\bin\Debug\net5.0\szokoev.exe
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\bin\Debug\net5.0\szokoev.deps.json
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\bin\Debug\net5.0\szokoev.runtimeconfig.json
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\bin\Debug\net5.0\szokoev.runtimeconfig.dev.json
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\bin\Debug\net5.0\szokoev.dll
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\bin\Debug\net5.0\szokoev.pdb
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\szokoev.csproj.AssemblyReference.cache
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\szokoev.GeneratedMSBuildEditorConfig.editorconfig
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\szokoev.AssemblyInfoInputs.cache
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\szokoev.AssemblyInfo.cs
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\szokoev.csproj.CoreCompileInputs.cache
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\szokoev.dll
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\refint\szokoev.dll
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\szokoev.pdb
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\szokoev.genruntimeconfig.cache
+C:\11.a\Korosa Péter\Programozás\szokoev\szokoev\obj\Debug\net5.0\ref\szokoev.dll
