@@ -1,0 +1,16 @@
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\számkitaláló.csproj.AssemblyReference.cache
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\számkitaláló.GeneratedMSBuildEditorConfig.editorconfig
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\számkitaláló.AssemblyInfoInputs.cache
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\számkitaláló.AssemblyInfo.cs
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\számkitaláló.csproj.CoreCompileInputs.cache
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\bin\Debug\net5.0\számkitaláló.exe
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\bin\Debug\net5.0\számkitaláló.deps.json
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\bin\Debug\net5.0\számkitaláló.runtimeconfig.json
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\bin\Debug\net5.0\számkitaláló.runtimeconfig.dev.json
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\bin\Debug\net5.0\számkitaláló.dll
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\bin\Debug\net5.0\számkitaláló.pdb
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\számkitaláló.dll
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\refint\számkitaláló.dll
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\számkitaláló.pdb
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\számkitaláló.genruntimeconfig.cache
+C:\11.a\Korosa Péter\Programozás\számkitaláló\számkitaláló\obj\Debug\net5.0\ref\számkitaláló.dll
