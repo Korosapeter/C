@@ -1,0 +1,16 @@
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\bin\Debug\net5.0\pitagorasz.exe
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\bin\Debug\net5.0\pitagorasz.deps.json
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\bin\Debug\net5.0\pitagorasz.runtimeconfig.json
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\bin\Debug\net5.0\pitagorasz.runtimeconfig.dev.json
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\bin\Debug\net5.0\pitagorasz.dll
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\bin\Debug\net5.0\pitagorasz.pdb
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\pitagorasz.csproj.AssemblyReference.cache
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\pitagorasz.GeneratedMSBuildEditorConfig.editorconfig
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\pitagorasz.AssemblyInfoInputs.cache
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\pitagorasz.AssemblyInfo.cs
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\pitagorasz.csproj.CoreCompileInputs.cache
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\pitagorasz.dll
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\refint\pitagorasz.dll
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\pitagorasz.pdb
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\pitagorasz.genruntimeconfig.cache
+C:\11.a\Korosa Péter\Dolgozat\pitagorasz\pitagorasz\obj\Debug\net5.0\ref\pitagorasz.dll
