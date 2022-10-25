@@ -1,0 +1,16 @@
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\bin\Debug\net5.0\ko_papir_ollo.exe
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\bin\Debug\net5.0\ko_papir_ollo.deps.json
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\bin\Debug\net5.0\ko_papir_ollo.runtimeconfig.json
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\bin\Debug\net5.0\ko_papir_ollo.runtimeconfig.dev.json
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\bin\Debug\net5.0\ko_papir_ollo.dll
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\bin\Debug\net5.0\ko_papir_ollo.pdb
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ko_papir_ollo.csproj.AssemblyReference.cache
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ko_papir_ollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ko_papir_ollo.AssemblyInfoInputs.cache
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ko_papir_ollo.AssemblyInfo.cs
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ko_papir_ollo.csproj.CoreCompileInputs.cache
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ko_papir_ollo.dll
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\refint\ko_papir_ollo.dll
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ko_papir_ollo.pdb
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ko_papir_ollo.genruntimeconfig.cache
+C:\11.a\Korosa Péter\Programozás\ko_papir_ollo\ko_papir_ollo\obj\Debug\net5.0\ref\ko_papir_ollo.dll
