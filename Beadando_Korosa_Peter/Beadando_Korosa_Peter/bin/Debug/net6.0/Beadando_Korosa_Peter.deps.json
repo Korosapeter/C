@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Beadando_Korosa_Peter/1.0.0": {
+        "runtime": {
+          "Beadando_Korosa_Peter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beadando_Korosa_Peter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

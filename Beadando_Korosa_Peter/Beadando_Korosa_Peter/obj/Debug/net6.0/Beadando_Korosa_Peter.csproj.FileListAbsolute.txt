@@ -1,0 +1,45 @@
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.exe
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.deps.json
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.runtimeconfig.json
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.dll
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.pdb
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.csproj.AssemblyReference.cache
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.AssemblyInfoInputs.cache
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.AssemblyInfo.cs
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.csproj.CoreCompileInputs.cache
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.dll
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\refint\Beadando_Korosa_Peter.dll
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.pdb
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.genruntimeconfig.cache
+Q:\Progi\Vs studio\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\ref\Beadando_Korosa_Peter.dll
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.csproj.AssemblyReference.cache
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.AssemblyInfoInputs.cache
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.AssemblyInfo.cs
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.csproj.CoreCompileInputs.cache
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.dll
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\refint\Beadando_Korosa_Peter.dll
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.pdb
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.exe
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.deps.json
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.runtimeconfig.json
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.dll
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.pdb
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.genruntimeconfig.cache
+C:\Users\yman4\OneDrive\Asztali gép\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\ref\Beadando_Korosa_Peter.dll
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.exe
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.deps.json
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.runtimeconfig.json
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.dll
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\bin\Debug\net6.0\Beadando_Korosa_Peter.pdb
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.csproj.AssemblyReference.cache
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.AssemblyInfoInputs.cache
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.AssemblyInfo.cs
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.csproj.CoreCompileInputs.cache
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.dll
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\refint\Beadando_Korosa_Peter.dll
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.pdb
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\Beadando_Korosa_Peter.genruntimeconfig.cache
+C:\Users\koros\Desktop\Beadando_Korosa_Peter\Beadando_Korosa_Peter\obj\Debug\net6.0\ref\Beadando_Korosa_Peter.dll
