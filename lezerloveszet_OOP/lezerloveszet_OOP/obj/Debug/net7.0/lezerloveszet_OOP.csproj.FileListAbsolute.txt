@@ -1,0 +1,14 @@
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\bin\Debug\net7.0\lezerloveszet_OOP.exe
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\bin\Debug\net7.0\lezerloveszet_OOP.deps.json
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\bin\Debug\net7.0\lezerloveszet_OOP.runtimeconfig.json
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\bin\Debug\net7.0\lezerloveszet_OOP.dll
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\bin\Debug\net7.0\lezerloveszet_OOP.pdb
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\lezerloveszet_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\lezerloveszet_OOP.AssemblyInfoInputs.cache
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\lezerloveszet_OOP.AssemblyInfo.cs
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\lezerloveszet_OOP.csproj.CoreCompileInputs.cache
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\lezerloveszet_OOP.dll
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\refint\lezerloveszet_OOP.dll
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\lezerloveszet_OOP.pdb
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\lezerloveszet_OOP.genruntimeconfig.cache
+C:\12a\lezerloveszet_OOP\lezerloveszet_OOP\obj\Debug\net7.0\ref\lezerloveszet_OOP.dll
