@@ -12,9 +12,9 @@ namespace Konyvek.Iservices
     internal class Bookservices : IBookservices
     {
 
-        private readonly Context _dbc;
+        private readonly FogalalsContext _dbc;
 
-        public Bookservices(Context dbc)
+        public Bookservices(FogalalsContext dbc)
         {
             _dbc = dbc;
         }
@@ -26,7 +26,11 @@ namespace Konyvek.Iservices
 
         public Book GetBook(int id)
         {
-            Book select = from x in _dbc.book
+
+            Book select = (from x in _dbc.Books
+                             where x.BookId == id
+                             select x).FirstOrDefault();
+            return select;
         }
 
         public bool saveBook(Book nBook)

@@ -48,7 +48,9 @@ namespace Konyvek
             services.AddDbContext<FogalalsContext>();
 
             services.AddSingleton<IAuthorservices, Authorservices>();
-           
+            services.AddSingleton<IBookservices, Bookservices>();
+
+
 
 
             return services.BuildServiceProvider();

@@ -22,14 +22,15 @@ namespace Konyvek.Iservices
 
         public Author GetBook(int id)
         {
-            throw new NotImplementedException();
+            Author select =  (from x in _dbc.Authors
+                              where x.Id == id
+                              select x).FirstOrDefault();
+            return select;
         }
 
         public bool saveBook(Author nAuthor)
         {
             throw new NotImplementedException();
         }
-
-        ContextBoundObject 
     }
 }
