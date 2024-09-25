@@ -1,0 +1,14 @@
+C:\tanulo\13a\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.exe
+C:\tanulo\13a\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.deps.json
+C:\tanulo\13a\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.runtimeconfig.json
+C:\tanulo\13a\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.dll
+C:\tanulo\13a\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.pdb
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.GeneratedMSBuildEditorConfig.editorconfig
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.AssemblyInfoInputs.cache
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.AssemblyInfo.cs
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.csproj.CoreCompileInputs.cache
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.dll
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\refint\TorpedoJatek.dll
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.pdb
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.genruntimeconfig.cache
+C:\tanulo\13a\TorpedoJatek\obj\Debug\net8.0\ref\TorpedoJatek.dll
